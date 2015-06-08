@@ -41,27 +41,21 @@ enum BlockColor: Int, Printable {
 }
 
 class Block: Hashable, Printable {
-    // #2
-    // Constants
+
     let color: BlockColor
     
-    // #3
-    // Properties
     var column: Int
     var row: Int
     var sprite: SKSpriteNode?
     
-    // #4
     var spriteName: String {
         return color.spriteName
     }
     
-    // #5
     var hashValue: Int {
         return self.column ^ self.row
     }
     
-    // #6
     var description: String {
         return "\(color): [\(column), \(row)]"
     }
@@ -73,7 +67,6 @@ class Block: Hashable, Printable {
     }
 }
 
-// #7
 func ==(lhs: Block, rhs: Block) -> Bool {
     return lhs.column == rhs.column && lhs.row == rhs.row && lhs.color.rawValue == rhs.color.rawValue
 }

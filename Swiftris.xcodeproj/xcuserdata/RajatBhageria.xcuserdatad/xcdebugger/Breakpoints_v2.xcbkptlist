@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Swiftris/GameScene.swift"
-            timestampString = "455139066.880952"
+            timestampString = "455396347.767311"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "init(size:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Swiftris/GameScene.swift"
-            timestampString = "455165542.893494"
+            timestampString = "455396347.767311"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "init(size:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Swiftris/GameScene.swift"
-            timestampString = "455165663.188381"
+            timestampString = "455396347.767311"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
             landmarkName = "update(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Swiftris/GameScene.swift"
-            timestampString = "455165685.409628"
+            timestampString = "455396347.767311"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
             landmarkName = "update(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -81,6 +81,54 @@
             endingLineNumber = "39"
             landmarkName = "random()"
             landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swiftris/Shape.swift"
+            timestampString = "455226186.856638"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "Shape"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.Shape.__deallocating_deinit"
+                  moduleName = "Swiftris"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RajatBhageria/GitHub/Swiftris/Swiftris/Shape.swift"
+                  timestampString = "455396348.10128"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swiftris.Shape.deinit"
+                  moduleName = "Swiftris"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/RajatBhageria/GitHub/Swiftris/Swiftris/Shape.swift"
+                  timestampString = "455396348.101464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
